@@ -1,2 +1,2 @@
-# atlantis
+# Atlantis
 WordPress Theme
