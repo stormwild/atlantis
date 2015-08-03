@@ -1,0 +1,27 @@
+{
+  "name": "atlantis",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stormwild/atlantis",
+  "authors": [
+    "Alexander Torrijos <artorrijos@gmail.com>"
+  ],
+  "description": "Responsive Mobile Optimized WordPress Theme",
+  "main": "index.php",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "responsive",
+    "mobile",
+    "wordpress",
+    "theme"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
